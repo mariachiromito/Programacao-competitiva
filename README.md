@@ -3,9 +3,9 @@ Este repositório contém a resolução de diversos exercícios em diferentes pl
 
 ## Plataformas
 
-[CodeForces](codeforces/)
-[LeetCode](leetcode/)
-[AtCoder](atcoder/)
+- [CodeForces](codeforces/)
+- [LeetCode](leetcode/)
+- [AtCoder](atcoder/)
 
 ## Organização do repositórios
 
