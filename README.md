@@ -7,7 +7,7 @@ Este repositório contém a resolução de diversos exercícios em diferentes pl
 - [LeetCode](leetcode/)
 - [AtCoder](atcoder/)
 
-## Organização do repositórios
+## Organização do repositório
 
 ```
 ├── Codeforces
