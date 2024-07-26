@@ -5,12 +5,12 @@ Este repositório contém a resolução de diversos exercícios em diferentes pl
 
 - [CodeForces](codeforces/)
 - [LeetCode](leetcode/)
-- [AtCoder](atcoder/)
 
 ## Contests
 
 - [CodeForces](contests/codeforces/)
 - [LeetCode](contests/leetcode/)
+- [AtCoder](contests/AtCoder/)
 
 ## Organização do repositório
 
