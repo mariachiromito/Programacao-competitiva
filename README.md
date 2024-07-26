@@ -7,17 +7,25 @@ Este repositório contém a resolução de diversos exercícios em diferentes pl
 - [LeetCode](leetcode/)
 - [AtCoder](atcoder/)
 
+## Contests
+
+- [CodeForces](contests/codeforces/)
+- [LeetCode](contests/leetcode/)
+
 ## Organização do repositório
 
 ```
 ├── Codeforces
-│   ├── Fácil
+│   ├── Div 1
 │   │   ├── problema_a.c
 │   │   ├── problema_a.txt
-│   ├── Médio
+│   ├── Div 2
+│   │   ├── problema_b.c
+│   │   ├── problema_b.txt
+│   ├── Div 3
 │   │   ├── problema_c.c
 │   │   ├── problema_c.txt
-│   └── Difícil
+│   └── Div 4 
 │       ├── problema_e.c
 │       ├── problema_e.txt
 ```
